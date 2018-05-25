@@ -10,9 +10,10 @@ Niemand :-)
 
 # Code Test
 
-...
-print("Code")
-...
+```python
+theName = "Gero"
+print("Hallo " + theName)
+```
 
 # Zitat Test
 
